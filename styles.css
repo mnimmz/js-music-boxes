@@ -11,22 +11,27 @@ body{
 h1 {
   color: #362C28;
   text-align: center;
-  font-size: 3.4rem;
+  font-size: 4.4rem;
   margin-bottom: 6%;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 .musicBoxes {
   display: block;
   text-align: center;
+  cursor: pointer;
 }
 
 .box {
   display: inline-block;
   background-color: #704C5E;
   color: #F1C8DB;
-  padding: 57px 76px;
+  padding: 31px 56px;
   margin: 4px;
-  font-size: 1.5rem;
+  font-size: 3.5rem;
+  font-family: 'Merriweather Sans', sans-serif;
 }
 
 
