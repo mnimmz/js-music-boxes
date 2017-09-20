@@ -1,0 +1,50 @@
+body{
+  background-color: #B88C9E;
+  font-size: 16px;
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 20%;
+}
+
+h1 {
+  color: #362C28;
+  text-align: center;
+  font-size: 3.4rem;
+  margin-bottom: 6%;
+}
+
+.musicBoxes {
+  display: block;
+  text-align: center;
+}
+
+.box {
+  display: inline-block;
+  background-color: #704C5E;
+  color: #F1C8DB;
+  padding: 57px 76px;
+  margin: 4px;
+  font-size: 1.5rem;
+}
+
+.box.active {
+  background-color: #F1C8DB;
+  color: #704C5E;
+  cursor: pointer;
+}
+
+/*.box:hover, .box:focus, .box:active {
+  background-color: #F1C8DB;
+  color: #704C5E;
+  cursor: pointer;
+}*/
+
+
+
+
+
+
+/*#704C5E;*/
+/*#F1C8DB*/
